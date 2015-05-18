@@ -1,4 +1,4 @@
-# Thorn
+# Thorn [![Code Climate](https://codeclimate.com/github/ohrite/thorn/badges/gpa.svg)](https://codeclimate.com/github/ohrite/thorn) [![Circle CI](https://circleci.com/gh/ohrite/thorn.svg?style=svg)](https://circleci.com/gh/ohrite/thorn)
 
 An experiment in implementing Scheme, inspired by
 [Peter Norvig's Lispy](http://norvig.com/lispy.html) dialect.
